@@ -1,7 +1,7 @@
 # wp-themes-CodeCrafter
 シンプルなWordPressのテーマです。
 
-## このテーマをWordPress使う手順
+## このテーマをWordPressで使う手順
 * サーバーにWordPressをインストールする
 * 本テーマファイルをダウンロードする（ZIPファイル）
 * ダウンロードしたテーマファイルをレンタルサーバーにアップする
